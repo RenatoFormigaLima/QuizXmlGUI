@@ -145,8 +145,6 @@
     <Content Include="src\img\user-xmark-solid.svg" />
     <Content Include="src\img\user-xmark-solid_30x30.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Instalador\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
