@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizXmlGUINative", "QuizXmlGUINative.csproj", "{4AE1C938-FEC9-40D3-A550-74DE3F9DDE98}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QuizXmlGUINativeSetup", "Instalador\QuizXmlGUINativeSetup\QuizXmlGUINativeSetup.vdproj", "{8B2E5010-8DAC-4438-BB69-6BD8679BC1E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AE1C938-FEC9-40D3-A550-74DE3F9DDE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE1C938-FEC9-40D3-A550-74DE3F9DDE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE1C938-FEC9-40D3-A550-74DE3F9DDE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE1C938-FEC9-40D3-A550-74DE3F9DDE98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B2E5010-8DAC-4438-BB69-6BD8679BC1E1}.Debug|Any CPU.ActiveCfg = Debug
+		{8B2E5010-8DAC-4438-BB69-6BD8679BC1E1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {642CD73D-C994-4B60-89FF-D941E6929820}
+	EndGlobalSection
+EndGlobal
